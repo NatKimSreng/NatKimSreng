@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./Code Hacking GIF by Pizza Ninjas.gif" alt="Nebula Demo" width="600"/>
+</div>
+
 # 🌌 Epic Nebula Project
 
 Welcome to the **Epic Nebula Project** — a cosmic collision of code, creativity, and pure awesomeness! 🚀 This isn’t just a repo; it’s a launchpad for innovation, built to spark inspiration and ignite your inner coder. Buckle up and explore the universe of possibilities! 🌠
@@ -18,10 +22,13 @@ Epic Nebula is a [insert brief project description, e.g., "mind-bending AI tool 
 Ready to join the mission? Here’s how to blast off with Epic Nebula in minutes.
 
 ### Gear Check
+
 - [List dependencies, e.g., "Python 3.9+", "Node.js 18+", or "A quantum computer (just kidding!)"]
 - A fearless spirit and a love for coding! 😎
 
 ### Deployment
+
 1. Clone the galaxy:
    ```bash
    git clone https://github.com/sreng0102/epic-nebula.git
+   ```
