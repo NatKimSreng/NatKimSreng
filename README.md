@@ -27,10 +27,10 @@ Ready to join the mission? Here’s how to blast off with Epic Nebula in minutes
 - A fearless spirit and a love for coding! 😎
 
 ### Deployment
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreng0102&repo=Booksw&layout=compact&theme=radical" alt="Language Stats"/>
-</div>
 1. Clone the galaxy:
    ```bash
    git clone https://github.com/sreng0102/epic-nebula.git
    ```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreng0102&repo=Phone-Ecommerce&layout=compact&theme=radical" alt="Language Stats"/>
+</div>
